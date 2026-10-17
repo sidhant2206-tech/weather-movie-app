@@ -124,4 +124,11 @@ button:hover {
   .movie-card img {
     height: 220px;
   }
+}.no-poster {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0f1a2b;
+  color: #888;
 }
